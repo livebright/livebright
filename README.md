@@ -6,7 +6,7 @@
 - 👀 I’m interested in exploring innovative software solutions, contributing to open-source projects, and diving into AI and machine learning.
 - 🌱 I’m currently learning advanced QA automation techniques, Docker, and refining my skills in C programming.
 - 💞️ I’d love to collaborate on exciting algorithm challenges, QA projects, or creative software development tasks.
-- 📫 How to reach me: **Email**: [sherysse.gardner@gmail.com] | **LinkedIn**: [[Sherysse Gardner]](https://www.linkedin.com/in/sherysse-gardner/)
+- 📫 How to reach me: **Email**: [sherysse.gardner@gmail.com] | **LinkedIn**: [[LinkedIn/Sherysse-Gardner]](https://www.linkedin.com/in/sherysse-gardner/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love combining my interest in storytelling with programming by building interactive and engaging projects.
 
