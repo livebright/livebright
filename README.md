@@ -52,8 +52,8 @@ Feel free to reach out or check out my repositories for more insights into my wo
 
 ### Contact
 - **Email**: sherysse.gardner@gmail.com
-- **LinkedIn**: [[Sherysse Gardner]](https://www.linkedin.com/in/sherysse-gardner/)
+- **LinkedIn**: [[LinkedIn/Sherysse-Gardner]](https://www.linkedin.com/in/sherysse-gardner/)
 
 ---
 
-_"“I am always doing what I cannot do yet, in order to learn how to do it” —— Vincent van Gogh"_
+_"“I am always doing what I cannot do yet, in order to learn how to do it” — Vincent van Gogh"_
